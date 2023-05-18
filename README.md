@@ -3,3 +3,7 @@
 -   [Read Blog](https://medium.com/@albertashaba.a)
 -   [Instagram](https://www.instagram.com/tripplea_codes/)
 -   [Twitter](https://twitter.com/ashabaheebwa)
+
+## Topics (Blog links)
+
+1. [Python dictionaries](https://medium.com/@albertashaba.a/python-tutorial-dictionaries-and-how-to-use-them-70cf028a7b0d)
