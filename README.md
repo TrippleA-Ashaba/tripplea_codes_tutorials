@@ -6,11 +6,12 @@
 
 ## Topics (Blog links)
 
-1. [Python dictionaries](https://medium.com/@albertashaba.a/python-tutorial-dictionaries-and-how-to-use-them-70cf028a7b0d)
-   
-   *[!!code!!](https://github.com/TrippleA-Ashaba/tripplea_codes_tutorials/blob/main/dictionaries/dictionaries.ipynb)*
-   
+1. [Dictionaries](https://medium.com/@albertashaba.a/python-tutorial-dictionaries-and-how-to-use-them-70cf028a7b0d)
+
+    _[!!code!!](https://github.com/TrippleA-Ashaba/tripplea_codes_tutorials/blob/main/dictionaries/dictionaries.ipynb)_
+
 2. [Lambda functions](https://medium.com/@albertashaba.a/mastering-python-lambdas-unveiling-the-power-of-compact-functionality-192664d3e7fc)
-   
-   *[!!code!!](https://github.com/TrippleA-Ashaba/tripplea_codes_tutorials/blob/main/lambda-functions/lambdas.ipynb)*
- 
+
+    _[!!code!!](https://github.com/TrippleA-Ashaba/tripplea_codes_tutorials/blob/main/lambda-functions/lambdas.ipynb)_
+
+3. [Decorators]()
