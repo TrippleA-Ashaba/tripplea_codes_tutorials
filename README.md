@@ -14,4 +14,12 @@
 
     _[!!code!!](https://github.com/TrippleA-Ashaba/tripplea_codes_tutorials/blob/main/lambda-functions/lambdas.ipynb)_
 
-3. [Decorators]()
+3. [Decorators](https://medium.com/@albertashaba.a/beyond-ordinary-functions-unveiling-the-decorator-design-pattern-1e98a2fcab51)
+
+    _[!!code!!](https://github.com/TrippleA-Ashaba/tripplea_codes_tutorials/blob/main/decorators/decorators.ipynb)_
+    
+4. 
+5. 
+6. 
+
+    
